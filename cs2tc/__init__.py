@@ -3,7 +3,7 @@ from typing import Union
 from paramtools import Parameters
 
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 def convert_policy_defaults(meta_params: Parameters, policy_params: Parameters):
     """
